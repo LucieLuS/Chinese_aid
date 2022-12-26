@@ -1,4 +1,4 @@
-# Add one or two sentences to summarize the findings/relevance of the articles you uploaded.
+# Start by the numbered file name, add a few sentences to summarize the findings/relevance of the articles you uploaded.
 
 ## 01. McCauley et al. 2022 Chinese and US FDI in Africa
 
@@ -28,3 +28,12 @@ Overall, 34\% of respondents live near an active US project are proximate to bot
 Research Design:
 
 Compare respondents living in proximity to an active Chinese or US project, and eventual project location, and no project yet exists. The intuition is that respondents living near active projects and eventual project locations are similar in expectation.
+
+
+## 02. Mattingly et al. 2022_Chinese Propaganda Persuades Global Audience
+
+
+
+
+
+
